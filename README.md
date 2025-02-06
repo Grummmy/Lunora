@@ -26,14 +26,14 @@ npm install
 Here is an example of the `config.json` configuration file to set up the captcha pattern and Telegram bot information:
 ```json
 {
-  "captcha": {                 # конфигурации паттернов капчи
-    "auraland": [              # паттерн капчи по умолчанию
+  "captcha": {
+    "auraland": [
       [14, 13, 12, 11, 10],
       [9, 8, 7, 6, 5],
       [4, 3, 2, 1, 0]
     ]
   },
-  "tg": {                      # конфигурация Telegram-бота
+  "tg": {
     "botToken": "YOUR_BOT_TOKEN",
     "chatID": "YOUR_CHAT_ID"
   }
@@ -172,7 +172,7 @@ After running the command, the captcha will be sent to the specified chat.
 
 Данный бот предназначен для консольного взаимодействия с Minecraft-сервером. Он поддерживает различные функции, включая логирование чата, сборку капч и их отображение, анти-АФК и прочие.  
 
-# 📜 **License**
+# 📜 **Лицензия**
 
 Этот проект распространяется под лицензией **Anti-Capitalist Software License (ACSL)**.  
 Коммерческое использование запрещено.
@@ -189,14 +189,14 @@ npm install
 Вот пример конфигурационного файла `config.json` для настройки паттерна капчи и информации Telegram-бота:
 ```json
 {
-  "captcha": {                 # конфигурации паттернов капчи
-    "auraland": [              # паттерн капчи по умолчанию
+  "captcha": {
+    "auraland": [
       [14, 13, 12, 11, 10],
       [9, 8, 7, 6, 5],
       [4, 3, 2, 1, 0]
     ]
   },
-  "tg": {                      # конфигурация Telegram-бота
+  "tg": {
     "botToken": "YOUR_BOT_TOKEN",
     "chatID": "YOUR_CHAT_ID"
   }

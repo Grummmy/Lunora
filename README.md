@@ -1,6 +1,6 @@
 # **Lunora**
 
-| Landuage | Link                                                  |
+| Language | Link                                                  |
 | -------- | ----------------------------------------------------- |
 | English  | [[#Lunora – Installation and Usage Guide]]            |
 | Русский  | [[#Lunora – Инструкция по установке и использованию]] |

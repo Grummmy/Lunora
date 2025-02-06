@@ -23,7 +23,7 @@ This license ("License") establishes the terms of use, distribution, and modific
 
 ## By using this Software, you agree to the terms of this License.  
 
-**Contact:** [Telegram @usernameWasMadeJustForU](t.me/usernameWasMadeJustForU)  
+**Contact:** [Telegram @usernameWasMadeJustForU](https://t.me/usernameWasMadeJustForU)  
 
 ---
 
@@ -47,4 +47,4 @@ This license ("License") establishes the terms of use, distribution, and modific
 
 ## Используя данное Программное обеспечение, вы соглашаетесь с условиями настоящей Лицензии.  
 
-**Для контактов:** [Telegram @usernameWasMadeJustForU](t.me/usernameWasMadeJustForU)  
+**Для контактов:** [Telegram @usernameWasMadeJustForU](https://t.me/usernameWasMadeJustForU)  

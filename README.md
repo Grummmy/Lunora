@@ -11,9 +11,7 @@ This bot is designed for console interaction with a Minecraft server. It support
 
 # 📜 **License**
 
-This project is licensed under the **Anti-Capitalist Software License (ACSL)**. 
-Commercial use is prohibited.
-If you wish to use this code for commercial purposes, please contact me on Telegram: [@usernameWasMadeJustForU](https://t.me/usernameWasMadeJustForU) to obtain permission.
+You can view the license in `LICENSE.md` or [**here**](https://telegra.ph/Grumm-Shield-LicenseGSL-v10-02-06).
 
 ## 🔧 Dependencies Installation and Configuration Setup
 
@@ -174,9 +172,7 @@ After running the command, the captcha will be sent to the specified chat.
 
 # 📜 **Лицензия**
 
-Этот проект распространяется под лицензией **Anti-Capitalist Software License (ACSL)**.  
-Коммерческое использование запрещено.
-Если вы хотите использовать этот код в коммерческих целях, свяжитесь со мной в Telegram: [@usernameWasMadeJustForU](https://t.me/usernameWasMadeJustForU) для получения разрешения.
+Вы можете посмотреть лицензию в `LICENSE.md` или [**здесь**](https://telegra.ph/Grumm-Shield-LicenseGSL-v10-02-06).
 
 ## 🔧 Установка зависимостей и настройка конфигурации
 

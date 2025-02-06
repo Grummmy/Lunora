@@ -54,20 +54,20 @@ node bot.js MyBot --host example.com --version 1.16.5 -s -i
 
 ## ⚙️ Available Options
 
-| Option              | Description                                                  | Default Value       |
-| ------------------- | ------------------------------------------------------------ | ------------------- |
-| `<username>`        | Bot's username                                               | **Required**        |
-| `--host <server>`   | Server address                                               | `localhost`         |
-| `--port <port>`     | Server port                                                  | `25565`             |
-| `--version <ver>`   | Minecraft version                                            | `1.16.5`            |
-| `--brand <brand>`   | Minecraft client (e.g., Forge, Lunar)                        | `newUwU`            |
-| `--cfg-file <cfg>`  | Configuration file (without `.json`)                         | `config`            |
-| `--captcha <name>`  | Captcha configuration name                                   | `auraland`          |
-| `--trgr-img <num>`  | ID of the image to trigger captcha collection                 | **Last map**        |
-| `-s`                | Enable chat logging to a file                                 | `false`             |
-| `-c`                | Automatically open captcha                                    | `false`             |
-| `-i`                | Enable interface (may not work correctly on Windows)         | `false`             |
-| `-tgc`              | Send captcha to Telegram                                      | `false`             |
+| Option             | Description                                          | Default Value           |
+| ------------------ | ---------------------------------------------------- | ----------------------- |
+| `<username>`       | Bot's username                                       | **Required**            |
+| `--host <server>`  | Server address                                       | `localhost`             |
+| `--port <port>`    | Server port                                          | `25565`                 |
+| `--version <ver>`  | Minecraft version                                    | `1.16.5`                |
+| `--brand <brand>`  | Minecraft client (e.g., Forge, Lunar)                | `newUwU`                |
+| `--cfg-file <cfg>` | Configuration file (without `.json`)                 | `config`                |
+| `--captcha <name>` | Captcha configuration name                           | `auraland`              |
+| `--trgr-img <num>` | Map ID that triggers captcha gathering after upload  | **Highest map ID from cfg** |
+| `-s`               | Enable chat logging to a file                        | `false`                 |
+| `-c`               | Automatically open captcha                           | `false`                 |
+| `-i`               | Enable interface (may not work correctly on Windows) | `false`                 |
+| `-tgc`             | Send captcha to Telegram                             | `false`                 |
 
 ## 📜 Bot Commands
 
@@ -225,7 +225,7 @@ node bot.js MyBot --host example.com --version 1.16.5 -s -i
 | `--brand <brand>`  | Клиент Minecraft (например, Forge, Lunar)                  | `newUwU`              |
 | `--cfg-file <cfg>` | Файл конфигурации (без `.json`)                            | `config`              |
 | `--captcha <name>` | Название конфигурации капчи                                | `auraland`            |
-| `--trgr-img <num>` | ID изображения для запуска сбора капчи                     | **Последняя карта**   |
+| `--trgr-img <num>` | ID карты, после загрузки которой запускается сбор капчи    | **Карта с высшим ID** |
 | `-s`               | Включить логирование чата в файл                           | `false`               |
 | `-c`               | Автоматически открывать капчу                              | `false`               |
 | `-i`               | Включить интерфейс (может работать некорректно на Windows) | `false`               |

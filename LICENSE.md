@@ -1,5 +1,5 @@
 # **Grumm Shield License (GSL v1.0)**  
-Copyright © 2024 Grumm  
+Copyright © 2025 Grumm  
 
 #### **SOFTWARE USAGE LICENSE**  
 
